@@ -5,11 +5,11 @@ TimeVaultHub is a cutting-edge online platform where managing your funds has nev
 ## Features
 
 - **users are greeted by a sleek and user-friendly interface. The dashboard prominently displays their current account balance, providing a quick overview of their financial status.**
-- 
+
 - **Once the user initiates a top-up, our advanced compounding system kicks in. The system dynamically calculates and compounds the amount based on the current time, ensuring that users benefit from the most favorable returns.** 
 
 - **Users can seamlessly initiate withdrawals whenever they wish. The withdrawal process is straightforward, and funds are transferred securely to the linked account. Users have full control over their financial decisions.**
-- 
+  
 - **After any transaction, users can review and finalize their actions. The "Finalize Transaction" feature provides a comprehensive summary, detailing the top-up or withdrawal amount, the compounded interest accrued, and the resulting account balance.** 
 
 ## Running the project locally
