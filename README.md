@@ -4,7 +4,7 @@ TimeVaultHub is a cutting-edge online platform where managing your funds has nev
 
 ## Features
 
-- **users are greeted by a sleek and user-friendly interface. The dashboard prominently displays their current account balance, providing a quick overview of their financial status.**
+- **Users are greeted by a sleek and user-friendly interface. The dashboard prominently displays their current account balance, providing a quick overview of their financial status.**
 
 - **Once the user initiates a top-up, our advanced compounding system kicks in. The system dynamically calculates and compounds the amount based on the current time, ensuring that users benefit from the most favorable returns.** 
 
